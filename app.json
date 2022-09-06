@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "appaluguel",
+    "slug": "appaluguel",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
